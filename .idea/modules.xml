@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/day3/day03-flow-control/day03-flow-control.iml" filepath="$PROJECT_DIR$/day3/day03-flow-control/day03-flow-control.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1/day1.iml" filepath="$PROJECT_DIR$/day1/day1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day2/day2.iml" filepath="$PROJECT_DIR$/day2/day2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3/day3.iml" filepath="$PROJECT_DIR$/day3/day3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaseaiproject1.iml" filepath="$PROJECT_DIR$/javaseaiproject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git.iml" filepath="$PROJECT_DIR$/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitstudy/gitstudy.iml" filepath="$PROJECT_DIR$/gitstudy/gitstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
