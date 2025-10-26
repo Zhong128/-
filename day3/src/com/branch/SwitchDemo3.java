@@ -1,4 +1,4 @@
-package com.branch;
+package src.com.branch;
 
 import java.util.Scanner;
 

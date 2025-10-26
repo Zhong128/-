@@ -1,4 +1,4 @@
-package com.operator;
+package src.com.operator;
 
 public class OperatorDome1 {
       public static void main(String[] args) {

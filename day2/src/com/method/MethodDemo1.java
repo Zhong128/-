@@ -1,4 +1,4 @@
-package com.method;
+package src.com.method;
 
 public class MethodDemo1 {
     //写main方法

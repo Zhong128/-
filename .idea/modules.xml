@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/day4/day4.iml" filepath="$PROJECT_DIR$/day4/day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day5/day5.iml" filepath="$PROJECT_DIR$/day5/day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6/day6.iml" filepath="$PROJECT_DIR$/day6/day6.iml" />
       <module fileurl="file://$PROJECT_DIR$/git.iml" filepath="$PROJECT_DIR$/git.iml" />
       <module fileurl="file://$PROJECT_DIR$/gitstudy/gitstudy.iml" filepath="$PROJECT_DIR$/gitstudy/gitstudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
     </modules>
   </component>
 </project>
